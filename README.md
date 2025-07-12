@@ -13,7 +13,7 @@ Una biblioteca isomórfica y sin dependencias para autenticación con Google OAu
 - ⚡ **Ligera**: Solo el código necesario para autenticación con Google
 - 📦 **Tipada**: TypeScript listo para usar
 
-## Instalación
+## Instalación [Todavía no publico en npm (próximamente)]
 
 ```bash
 npm install simple-google-oauth2
