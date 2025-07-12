@@ -1,4 +1,5 @@
 # Simple Google OAuth2
+### by @blissito & @fixtergeek
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -137,4 +138,4 @@ const { tokens, user } = await handleGoogleLogin({
 
 ## Licencia
 
-MIT © [Tu Nombre]
+MIT © @blissito & @fixtergeek
